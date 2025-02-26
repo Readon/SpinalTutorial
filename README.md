@@ -6,8 +6,8 @@
 ## 安装环境
 
 - 安装版本管理软件[Git for Windows](https://git-scm.com/downloads/win)和图形界面[GitExtensions](https://gitextensions.github.io/)
-- 安装基于MSYS2的开发环境
-- 安装编辑器VSCode和相关插件
+- 安装基于MSYS2的开发环境[SpinalHDL-installer](https://github.com/Readon/SpinalHDL-installer)
+- 安装编辑器VSCode和相关插件,[Metals](https://marketplace.visualstudio.com/items?itemName=scalameta.metals)和[Vaporview](https://marketplace.visualstudio.com/items?itemName=lramseyer.vaporview)
 
 ## 测试开发环境是否搭建成功
 
